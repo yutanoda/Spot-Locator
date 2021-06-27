@@ -1,0 +1,85 @@
+.Container {
+  padding-top: 50px;
+  display: flex;
+  background-color: white;
+}
+
+.MenuBar {
+  list-style: none;
+  margin-top: 0;
+}
+
+.MenuList {
+  font-size: 3vh;
+  margin: 0 0 3vh 0; 
+}
+
+.MenuIcon {
+  margin-right: 10px;
+}
+
+.MenuLink {
+  text-decoration: none;
+  color: #000000;
+}
+
+.ProfileContainer {
+  padding-bottom: 5vh;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.PhotoContainer {
+  display: flex;
+  justify-content: center;
+  width: 54vw;
+  box-sizing: border-box;
+  height: 20vh;
+}
+
+.Photo {
+  height: 18vh;
+  width: 18vh;
+  margin-right: 5vh;
+  background-color: black;
+}
+
+.PhotoContent {
+  height: 100%;
+  width: 100%;
+}
+
+.ProfileInfo {
+  margin-left: 5vh;
+  height: 24vh;
+}
+
+
+.AccountName {
+  margin-top: 2vh;
+  font-size: 4vh;
+}
+
+.SecondInfo {
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  justify-content: flex-start;
+  padding: 0;
+  list-style: none;
+  font-size: 3vh;
+}
+
+.Num {
+  padding-left: 1vh;
+  padding-right: 5vh;
+}
+
+.InputContainer {
+  margin: 0 auto;
+  width: 54vw;
+}
+
+
+
+

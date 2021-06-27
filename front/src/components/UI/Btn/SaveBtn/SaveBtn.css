@@ -1,0 +1,14 @@
+.BtnContainer {
+  text-align: center;
+  margin-top: 5%;
+  
+}
+.Btn {
+  width: 30%;
+  height: 6vh;
+  background-color: hsl(210, 100%, 50%);
+  color: white;
+  border: none;
+  font-size: 24px;
+
+}

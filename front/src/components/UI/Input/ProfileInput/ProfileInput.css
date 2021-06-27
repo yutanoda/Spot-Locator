@@ -1,0 +1,20 @@
+.Input {
+  display: flex;
+  margin-top: 5%;
+  justify-content: center;
+}
+
+.Label {
+  width: 20%;
+  font-size: 20px;
+  margin: 8px 0;
+}
+
+.inputElement {
+  border: 1px solid #ccc;
+  width: 200px;
+  height: 40px;
+  padding: 8px 16px 8px 16px;
+  box-sizing: border-box;
+  background-color: #f6f6f6;
+}
